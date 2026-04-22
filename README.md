@@ -11,22 +11,24 @@ to analyze Indian startup funding trends from 2015 to 2020.
 - Matplotlib
 - Streamlit
 
-## Features
-- Overall analysis 
-    MoM Funding trends
-    top startups
-    top sectors funding wise
-    top cities funding wise
-- Startup Analysis
-    name, sector, location
-    Investors
-    Investment History
-    feature to look for similar startups
-- Investor Analysis
-    Recent, biggest investments
-    stage, sector, city wise investments
-    Year over Year investment linegraph
-    feature to look for similar investors 
+### Features
+## Overall analysis 
+   - MoM Funding trends
+   - top startups
+   - top sectors funding wise
+   - top cities funding wise
+
+## Startup Analysis
+   - name, sector, location
+   - Investors
+   - Investment History
+   - feature to look for similar startups
+
+## Investor Analysis
+   - Recent, biggest investments
+   - stage, sector, city wise investments
+   - Year over Year investment linegraph
+   - eature to look for similar investors 
     
 ## How to Run
 pip install -r requirements.txt
